@@ -16,3 +16,4 @@ proccess.json.
 <br> 例）"process": ["jump", "walk", "jump", "walk", "jump", "walk" ]
 <br> 選べる指示はjump , walk, climb
 <br>climbはステージに梯子があるときでないとキャラクターが動きません
+<br>※実際は専用のカメラアプリで積み木を撮影し、積み木の色と形によって上記の指示を割り当てている
